@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoUpdate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8ce6b299b59393aac54f65ce56ce9ef4ef298b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f91aa51b23397416e6112817836498cae615df50")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoUpdate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoUpdate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
