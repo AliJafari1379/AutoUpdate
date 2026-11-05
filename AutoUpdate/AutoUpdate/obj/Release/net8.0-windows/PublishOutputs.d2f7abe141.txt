@@ -1,0 +1,5 @@
+C:\Users\Ali\Desktop\C# Windows Form App\AutoUpdate\AutoUpdate\AutoUpdate\bin\Release\net8.0-windows\app.publish\AutoUpdate.exe
+C:\Users\Ali\Desktop\C# Windows Form App\AutoUpdate\AutoUpdate\AutoUpdate\bin\Release\net8.0-windows\app.publish\AutoUpdate.dll
+C:\Users\Ali\Desktop\C# Windows Form App\AutoUpdate\AutoUpdate\AutoUpdate\bin\Release\net8.0-windows\app.publish\AutoUpdate.deps.json
+C:\Users\Ali\Desktop\C# Windows Form App\AutoUpdate\AutoUpdate\AutoUpdate\bin\Release\net8.0-windows\app.publish\AutoUpdate.runtimeconfig.json
+C:\Users\Ali\Desktop\C# Windows Form App\AutoUpdate\AutoUpdate\AutoUpdate\bin\Release\net8.0-windows\app.publish\AutoUpdate.pdb
